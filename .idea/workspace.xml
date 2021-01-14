@@ -11,14 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa2238f4-2886-489e-bd3f-5f33f0e58d7a" name="Default Changelist" comment="modify database and edit post.">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blog-with-users-start.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,7 @@
       <set>
         <option value="https://github.com/himanshunau3452/Blog-with-user" />
         <option value="https://github.com/himanshunau3452/blog-with-users" />
+        <option value="https://github.com/himanshunau3452/blog-with-users-start" />
       </set>
     </option>
   </component>
@@ -44,8 +39,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog-with-users-end" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.25661916" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -54,17 +57,17 @@
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="blog-with-users-start" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\hp\AppData\Local\Programs\Python\Python39\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -131,33 +134,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="421" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1610507623241" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610556761305">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610595060186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610556761305" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610595060186" />
     <state x="532" y="262" key="Github.ShareDialog" timestamp="1610556811704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="532" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1610556811704" />
-    <state width="1345" height="2" key="GridCell.Tab.0.bottom" timestamp="1610532353897">
+    <state width="1345" height="303" key="GridCell.Tab.0.bottom" timestamp="1610593918360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610532353897" />
-    <state width="1345" height="2" key="GridCell.Tab.0.center" timestamp="1610532353803">
+    <state width="1345" height="303" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610593918360" />
+    <state width="1345" height="303" key="GridCell.Tab.0.center" timestamp="1610593918360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610532353741" />
-    <state width="1345" height="2" key="GridCell.Tab.0.left" timestamp="1610532353694">
+    <state width="1345" height="303" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610593918360" />
+    <state width="1345" height="303" key="GridCell.Tab.0.left" timestamp="1610593918360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610532353694" />
-    <state width="1345" height="2" key="GridCell.Tab.0.right" timestamp="1610532353803">
+    <state width="1345" height="303" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610593918360" />
+    <state width="1345" height="303" key="GridCell.Tab.0.right" timestamp="1610593918360">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610532353803" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1610557119640">
+    <state width="1345" height="303" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610593918360" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1610594906746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610557119640" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610594906746" />
   </component>
 </project>
