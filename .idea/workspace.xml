@@ -11,8 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa2238f4-2886-489e-bd3f-5f33f0e58d7a" name="Default Changelist" comment="modify database and edit post.">
+      <change afterPath="$PROJECT_DIR$/.idea/blog-with-users-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +44,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog-with-users-end" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.25661916" />
   </component>
@@ -106,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610505116512</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modify database and edit post.">
+      <created>1610595282439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610595282439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -134,33 +147,49 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="421" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1610507623241" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610595060186">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610596173363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610595060186" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610596173363" />
+    <state x="448" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610596494467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610596494467" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1610595758159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1610595758159" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610595923723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610595923723" />
     <state x="532" y="262" key="Github.ShareDialog" timestamp="1610556811704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="532" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1610556811704" />
-    <state width="1345" height="303" key="GridCell.Tab.0.bottom" timestamp="1610593918360">
+    <state width="1345" height="213" key="GridCell.Tab.0.bottom" timestamp="1610595926288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="303" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610593918360" />
-    <state width="1345" height="303" key="GridCell.Tab.0.center" timestamp="1610593918360">
+    <state width="1345" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610595926288" />
+    <state width="1345" height="213" key="GridCell.Tab.0.center" timestamp="1610595926288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="303" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610593918360" />
-    <state width="1345" height="303" key="GridCell.Tab.0.left" timestamp="1610593918360">
+    <state width="1345" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610595926288" />
+    <state width="1345" height="213" key="GridCell.Tab.0.left" timestamp="1610595926288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="303" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610593918360" />
-    <state width="1345" height="303" key="GridCell.Tab.0.right" timestamp="1610593918360">
+    <state width="1345" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610595926288" />
+    <state width="1345" height="213" key="GridCell.Tab.0.right" timestamp="1610595926288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="303" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610593918360" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1610594906746">
+    <state width="1345" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610595926288" />
+    <state x="483" y="84" key="RollbackChangesDialog" timestamp="1610595318455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610594906746" />
+    <state x="483" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1610595318455" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1610596387932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610596387932" />
   </component>
 </project>

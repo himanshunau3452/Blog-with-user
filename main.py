@@ -222,7 +222,7 @@ def delete_post(post_id):
 
 @login_manager.unauthorized_handler
 def unauthorized_handler():
-    flash("Unautherized access, please first login and then try to access the page.")
+    # flash("Unautherized access, please first login and then try to access the page.")
     return redirect(url_for("login"))
 
 if __name__ == "__main__":
