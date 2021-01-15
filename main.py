@@ -94,7 +94,7 @@ def admin_only(func):
         return wrap
 
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 @login_required
 def get_all_posts():
     posts = BlogPost.query.all()

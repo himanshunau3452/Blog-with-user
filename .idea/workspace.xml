@@ -12,9 +12,9 @@
   <component name="ChangeListManager">
     <list default="true" id="aa2238f4-2886-489e-bd3f-5f33f0e58d7a" name="Default Changelist" comment="modify database and edit post.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.db" beforeDir="false" afterPath="$PROJECT_DIR$/blog.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,9 +206,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="483" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1610595318455" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1610596387932">
+    <state x="290" y="18" width="916" height="710" key="SettingsEditor" timestamp="1610695277542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610596387932" />
+    <state x="290" y="18" width="916" height="710" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610695277542" />
   </component>
 </project>
